@@ -1,6 +1,6 @@
-## Lesson-11
+## Lesson-10
 
-Finally we update our sign-in component with our email/password sign in.
+Adding email/password sign up authentication for firebase, as a result we need to store our user objects in the database.
 
 # How to fork and clone
 
