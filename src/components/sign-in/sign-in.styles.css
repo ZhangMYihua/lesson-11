@@ -1,0 +1,12 @@
+.sign-in {
+  width: 380px;
+  display: flex;
+  flex-direction: column;
+}
+.sign-in .title {
+  margin: 10px 0;
+}
+.sign-in .buttons {
+  display: flex;
+  justify-content: space-between;
+}
